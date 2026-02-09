@@ -1,15 +1,47 @@
-Welcome! 👋
+# Hi, I'm Umar Farook 👋  
 
-I'm Umar Farook, a passionate Full Stack Developer with over 12 years of experience in web, desktop, and mobile application development. I’m always learning and exploring new technologies to build impactful projects.
+Tech Lead / Senior Full Stack Engineer with 14+ years of experience building scalable, reliable web, mobile, and platform systems.  
+I focus on clean architecture, developer experience, and building products that scale.
 
-- 🔭 Current Work: Actively working on microservices-based projects using Angular and Spring Boot.
-- 🌱 Learning Journey: Currently diving into DevOps to enhance my skill set.
-- 👯 Collaboration: Open to collaborating on Open Source Projects and Libraries.
-- 💬 Ask Me About: CSS, web design, and making user interfaces shine.
-- 📫 Get in Touch: umarfarook89@gmail.com.
+---
 
-Let’s connect and build something amazing together! 🚀
+### 🚀 What I’m Working On
+- Designing and delivering microservices-based platforms using **Angular, React, Node.js, and Spring Boot**
+- Improving **developer experience, CI/CD, and internal tooling**
+- Building reusable UI systems and platform foundations
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarookm&layout=compact)](https://github.com/umarfarookm/github-readme-stats)
+---
 
-[![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarfarookm&show_icons=true&theme=radical)](https://github.com/umarfarookm/github-readme-stats)
+### 🧠 What I Care About
+- Scalable system design & clean architecture  
+- Frontend excellence & design systems  
+- Platform engineering & DevEx  
+- Mentoring engineers & raising engineering standards  
+
+---
+
+### 🛠 Tech Stack
+**Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Node.js, Spring Boot, Java  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
+**Databases:** PostgreSQL, MongoDB, Neo4j  
+
+---
+
+### 🤝 Open To
+- Open source collaboration  
+- Building tools that help developers move faster 
+
+---
+
+### 📫 Contact
+- Email: umarfarook89@gmail.com  
+- Portfolio: https://umarfarook.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/umarfarookm  
+
+---
+
+_“Build simple systems that scale and help others move faster.”_
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarfarookm)
+
